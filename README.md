@@ -22,8 +22,12 @@ William Lowrimore is a Software Engineer from Nashville, TN. On this site you wi
 - Google <br />
 - GitHub <br />
 
+<img src="images/site-screenShot.png" alt="William Lowrimore" width="800" height="1200" />
+
+[Visit Site](https://www.williamlowrimore.com)
+
 ## Contact
 
 - [wlowrimore@gmail.com](wlowrimore@gmail.com)
-- [https://www.linkedin.com/in/william-lowrimore-dev](LinkedIn)
-- [https://www.github.com/wlowrimore](GitHub)
+- [LinkedIn](https://www.linkedin.com/in/william-lowrimore-dev)
+- [GitHub](https://www.github.com/wlowrimore)
