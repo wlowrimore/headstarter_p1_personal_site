@@ -11,6 +11,7 @@ William Lowrimore is a Software Engineer from Nashville, TN. On this site you wi
 - Sass <br/>
 - JavaScript <br />
 - jQuery <br />
+- Google Analytics <br />
 - GitHub <br />
 - VSCode
 
