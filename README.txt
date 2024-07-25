@@ -1,31 +1,25 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# William Lowrimore Portfolio
 
+## Description
+William Lowrimore is a Software Engineer from Nashville, TN.  On this site you will find a well-rounded introduction to an experienced and skilled engineer/developer.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+## Technologies Used
+- HTML5 <br/>
+- CSS3 <br />
+- Sass <br/>
+- JavaScript <br />
+- jQuery <br />
+- GitHub <br />
+- VSCode
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Resources
+- HTML5UP <br />
+- Gemini AI <br />
+- Codeium AI <br />
+- Google <br />
+- GitHub <br />
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contact
+- [wlowrimore@gmail.com](wlowrimore@gmail.com)
+- [https://www.linkedin.com/in/william-lowrimore-dev](LinkedIn)
+- [https://www.github.com/wlowrimore](GitHub)
